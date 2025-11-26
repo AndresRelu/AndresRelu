@@ -40,7 +40,7 @@ Sistema de gestión de órdenes de servicio para la empresa Atta Montacargas.
 - JavaScript  
 - HTML  
 - CSS  
-- React  
+- React Native 
 - Python  
 - FastAPI  
 
