@@ -8,7 +8,7 @@ Además, tengo experiencia en machine learning, lo que me permite integrar model
 
 # 🚀 Experiencia y Proyectos
 
-## **AlineaDent – Dental Clinic Management System**  
+## **AlineaDent – Sistema de gestión dental**  
 Sistema integral para gestión de clínicas dentales desarrollado con Next.js y FastAPI.
 
 **Incluye:**  
